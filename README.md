@@ -1,5 +1,5 @@
 # Physics
-Open source physics engine
+Open source physics library
 
 # Requirements:
 - "mathlib" needs to be installed: https://github.com/liamtolkki/math
